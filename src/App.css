@@ -169,3 +169,24 @@ body
   font-size: 16px;
   color: rgb(60,59,96);
 }
+
+.footer
+{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(204, 202, 207);
+  border-radius: 0px 0px 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5vw;
+}
+
+.icon
+{
+  height: 3vw;
+}
+.footer-hr
+{
+  height: 9px;
+}
